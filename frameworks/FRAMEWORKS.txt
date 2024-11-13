@@ -1,11 +1,11 @@
 ServerScriptService
-|_REMOTEEVENT
+|_REMOTEEVENT.lua
 
 StarterGui
 |_Frame
   |_UICorner
   |_TextButton
-    |_GUI.lua
+    |_GUI.lua <<Script
     |_ImageLabel
     |_TextLabel
       |_TextLabel2
@@ -13,5 +13,5 @@ StarterGui
     |_TextLabel
     |_TExtLabel
 |_Frame2
-  |_LocalScript
+  |_Frame2.lua << LocalScript
   |_TextLabel
