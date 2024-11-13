@@ -1,0 +1,17 @@
+ServerScriptService
+|_REMOTEEVENT
+
+StarterGui
+|_Frame
+  |_UICorner
+  |_TextButton
+    |_GUI.lua
+    |_ImageLabel
+    |_TextLabel
+      |_TextLabel2
+    |_TextLabel
+    |_TextLabel
+    |_TExtLabel
+|_Frame2
+  |_LocalScript
+  |_TextLabel
