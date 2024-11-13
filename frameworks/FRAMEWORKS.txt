@@ -1,5 +1,8 @@
+ReplicatedStorage
+|_RemoteEvent
+
 ServerScriptService
-|_REMOTEEVENT.lua
+|_REMOTEEVENT.lua << Script
 
 StarterGui
 |_Frame
