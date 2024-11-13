@@ -1,3 +1,4 @@
+--Frame1
 text = script.Parent.Parent.TextLabel --แม่ของแม่จอง script มีลูกคือ TextLabel
 button = script.Parent --Button คือแม่ของ script นี้
 
