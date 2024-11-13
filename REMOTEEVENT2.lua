@@ -1,4 +1,5 @@
 --Frame2
+--***LocalScript***
 
 local event = game.ReplicatedStorage:WaitForChild("RemoteEvent")
 
